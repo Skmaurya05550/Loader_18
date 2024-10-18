@@ -11,6 +11,7 @@ This project contains a custom loading animation built using HTML and CSS. The l
 - [Installation](#installation)
 
 ## Demo
+![17292599025245043369725544400754](https://github.com/user-attachments/assets/997c3e1f-b6bc-494f-a770-ffc367016f06)
 
 
 ## Features
