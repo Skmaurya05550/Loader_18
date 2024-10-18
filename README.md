@@ -12,9 +12,6 @@ This project contains a custom loading animation built using HTML and CSS. The l
 
 ## Demo
 
-![Loading Animation](path/to/screenshot.gif)
-
-You can see the live demo [here](https://example.com) (Update this link if hosted on Netlify or other services).
 
 ## Features
 
